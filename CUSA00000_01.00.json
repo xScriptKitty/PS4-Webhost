@@ -1,0 +1,22 @@
+{
+   "name":"",
+   "id":"",
+   "version":"01.00",
+   "process":"eboot.bin",
+   "mods":[
+      {
+         "name":"",
+         "type":"checkbox",
+         "memory":[
+            {
+               "offset":"",
+               "on":"",
+               "off":""
+            }
+         ]
+      }
+   ],
+   "credits":[
+      "Your_Name_Here"
+   ]
+}

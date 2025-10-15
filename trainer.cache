@@ -1,0 +1,35 @@
+CACHE MANIFEST 
+# PS4 Offline Cache 07-17-2021
+
+BigInteger.min.js
+bootstrap.js
+bootstrap.min.css
+CUSA00000.jpg
+CUSA00000_01.00.json
+error.png
+favicon.png
+font-awesome.min.css
+fontawesome-webfont.eot
+fontawesome-webfont.svg
+fontawesome-webfont.ttf
+fontawesome-webfont.woff
+fontawesome-webfont.woff2
+index.html
+jOAMTdL.png
+jquery.min.js
+lazyload.min.js
+list.json
+loadingoverlay.min.js
+main.css
+main.js
+main_loader.gif
+search-icon.png
+wallpaper.jpg
+
+NETWORK:
+*
+
+SETTINGS:
+prefer-online:
+
+# Date: 2021-17-07 20:44pm GMT-6
